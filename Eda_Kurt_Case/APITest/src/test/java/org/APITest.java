@@ -19,7 +19,7 @@ public class APITest {
 
     @BeforeAll
     static void setup() {
-        petId = System.currentTimeMillis();  // Unique ID for each test run
+        petId = System.currentTimeMillis(); 
     }
 
     @Test
